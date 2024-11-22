@@ -1,6 +1,6 @@
 # Organization Hierarchy Application
 
-![Organization Hierarchy](./src/assets/image.png)
+![Organization Hierarchy](./assets/image.png)
 
 A web application to visualize and manage organizational hierarchy structures.
 

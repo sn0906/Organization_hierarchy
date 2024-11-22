@@ -1,6 +1,6 @@
 # Organization Hierarchy Application
 
-![Organization Hierarchy](./assets/image.png)
+![Organization Hierarchy](./org-react-app//assets/image.png)
 
 A web application to visualize and manage organizational hierarchy structures.
 
